@@ -1,6 +1,6 @@
 # Melody2vec
 Model data of Melody2vec paper (Journal of Information Processing, Vol. 27, 2019)
-
+https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_278/_article/-char/en
 
 Note names are from C0 to B8
 the number coming after note names are the length.
