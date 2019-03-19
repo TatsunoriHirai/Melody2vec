@@ -8,3 +8,15 @@ the number coming after note names are the length.
 
 
 Codes will be available soon.
+
+
+
+@article{Tatsunori Hirai2019,
+ author               = {Tatsunori Hirai and Shun Sawada},
+ doi                  = {10.2197/ipsjjip.27.278},
+ journal              = {Journal of Information Processing},
+ pages                = {278-286},
+ title                = {Melody2Vec: Distributed Representations of Melodic Phrases based on Melody Segmentation},
+ volume               = {27},
+ year                 = {2019},
+}
